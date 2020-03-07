@@ -3,8 +3,8 @@ layout: single
 permalink: /projects/
 title: Projects
 header:
-  image: /assets/images/telops.jpg
-  caption: "Control room at Kitt Peak National Observatory"
+  image: /assets/images/awesome_s.jpg
+  caption: "Learning today, Leading tomorrow"
 ---
 
 
